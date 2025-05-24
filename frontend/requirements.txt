@@ -1,0 +1,4 @@
+### resume_debugger_tool/frontend/requirements.txt
+
+streamlit
+requests

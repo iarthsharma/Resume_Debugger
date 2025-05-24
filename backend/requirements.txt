@@ -1,0 +1,7 @@
+### resume_debugger_tool/backend/requirements.txt
+
+fastapi
+uvicorn
+openai
+pydantic
+sqlite3
