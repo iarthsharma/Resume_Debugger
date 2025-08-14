@@ -18,3 +18,4 @@ Analyze resumes using AI and anomaly detection to suggest impactful, quantifiabl
 
 ## API
 - `POST /analyze` — Accepts resume text, returns anomalies and GPT-based suggestions.
+
